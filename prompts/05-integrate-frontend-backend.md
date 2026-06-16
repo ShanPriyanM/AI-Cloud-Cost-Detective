@@ -29,3 +29,4 @@ Connect the React frontend to the FastAPI backend. Wire up WebSocket for live pr
 - Test the full flow: signup → login → select RG → run analysis → see live progress → view report → check history.
 
 Refer to `Architecture.MD` and `RequestFlow.MD`. This covers the full end-to-end flow — steps ① through ⑦.
+
